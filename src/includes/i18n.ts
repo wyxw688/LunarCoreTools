@@ -9,7 +9,7 @@ const options: I18nOptions = {
   messages: {
     zh: {
       main:{
-        notice: "LunarCore及其他任何衍生工具都是免费软件，如果你是付费购买的，那你就被骗了，请及时退款并举报。",
+        notice: "好好好。",
         copy: "复制",
         success: "已复制",
         text1: "请输入物品",
