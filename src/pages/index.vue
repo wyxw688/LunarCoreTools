@@ -35,8 +35,8 @@
     </div>
 
     
-    <div v-if="showAlert" class="alert-overlay"></div>
-    <div v-if="showAlert" class="alert-container">
+    <!-- <div v-if="showAlert" class="alert-overlay"></div> -->
+    <!-- <div v-if="showAlert" class="alert-container">
       <div class="alert-text">
         当前版本已过时，请前往GitHub更新。
       </div>
@@ -45,7 +45,7 @@
           <button>确认</button>
         </a>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 
